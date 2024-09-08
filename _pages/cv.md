@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+2 versions, one in English and one in Portugues. In the .md file, a smaller version, and in the pdf the full version. Make 2 pdfs: one in Portuguese, and one in English.
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
