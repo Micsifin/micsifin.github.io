@@ -17,8 +17,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts" # mudar nome para educação ou algo do gênero
-    url: /year-archive/
+  - title: "Educational" # mudar nome para educação ou algo do gênero
+    url: /educational-material/
     
   - title: "CV"
     url: /cv/
