@@ -19,5 +19,6 @@ Actually, order to do:
 6. Do the same with Portfolio (what I've done until now [2 anos de IME + Code + Econometrias I e II])
 7. Do the same with Educational Material (understand how blog posts work, check Pedro Sant'anna and get inspiration)
 
-Pegar inspiração nesse site aqui: <https://stuartgeiger.com>, e o repositório fonte está [aqui](https://github.com/staeiou/staeiou.github.io).
+Pegar inspiração nesse site aqui: <https://stuartgeiger.com>, e o repositório fonte está [aqui](https://github.com/staeiou/staeiou.github.io). (barra lateral no _config.yml, e ver tbm como mudar o logo do site na aba do navegador)
 
+Dar uma olhada [neste repositório também](https://github.com/rjzupkoii/rjzupkoii.github.io/tree/master), deste [cara](https://rjzupkoii.github.io//). (entender os posts)
