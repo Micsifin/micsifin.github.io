@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-US" # adicionar PT-BR tbm
 title                    : "Michel C. Finger"
 title_separator          : "-"
 name                     : &name "Your Name"
