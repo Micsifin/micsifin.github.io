@@ -1,13 +1,27 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Make the starting page be the paragraph about who I am (also on LinkedIn), and comment the rest out for initial publication. Work on the rest and deploy when I finish.
+# 🇺🇸 About me
+
+Hello, welcome to my website! I am a double undergraduate student of Applied and Computational Mathematics at [IME-USP](https://www.ime.usp.br/en/home/), and of Economics at [FGV-EESP](https://economics-sp.fgv.br/).
+
+I am currently a Márcio Heisecke de Almeida undergraduate research fellow, conducting a Scientific Initiation under the guidance of Professor [Vítor Possebom](https://sites.google.com/site/vitorapossebom/).
+
+[My CV can be accessed in my CV page.](/cv)
+
+# 🇧🇷 Sobre mim
+
+Olá, seja bem vindo ao meu site! Sou um aluno de dupla gradução em Matemática Aplicada e Computacional no [IME-USP](https://www.ime.usp.br/), e de Economia na [FGV-EESP](https://eesp.fgv.br/).
+
+No momento sou um bolsista Márcio Heisecke de Almeida, conduzindo minha Iniciação Científica sob orientação do Professor [Vítor Possebom](https://sites.google.com/site/vitorapossebom/).
+
+Meu currículo pode ser acessado na página do meu CV.
 
 Actually, order to do:
 
@@ -22,3 +36,5 @@ Actually, order to do:
 Pegar inspiração nesse site aqui: <https://stuartgeiger.com>, e o repositório fonte está [aqui](https://github.com/staeiou/staeiou.github.io). (barra lateral no _config.yml, e ver tbm como mudar o logo do site na aba do navegador)
 
 Dar uma olhada [neste repositório também](https://github.com/rjzupkoii/rjzupkoii.github.io/tree/master), deste [cara](https://rjzupkoii.github.io//). (entender os posts)
+
+E dar uma olhada [neste site](https://www.jonathandroth.com/) proveniente [deste repositório](https://github.com/jonathandroth/jonathandroth.github.io/tree/master).
