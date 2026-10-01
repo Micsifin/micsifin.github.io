@@ -5,7 +5,7 @@ permalink: /projects/
 classes: wide
 ---
 
-**Beyond Linearity: Semiparametric Solutions to Contamination Bias with Multi-valued Treatments**, with [Vitor Possebom](https://sites.google.com/site/vitorapossebom/about-me). 2026.
+### Beyond Linearity: Semiparametric Solutions to Contamination Bias with Multi-valued Treatments, with [Vitor Possebom](https://sites.google.com/site/vitorapossebom/about-me). 2026.
 
 Available at  <https://arxiv.org/abs/2609.20473>.
 
