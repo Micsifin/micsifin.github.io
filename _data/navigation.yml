@@ -5,8 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Home/Página Inicial"
+    url: /
+
+  - title: "CV"
+    url: /files/Undergraduate_CV__english_-1.pdf
+    
+  - title: "Projects"
+    url: /projects/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -19,9 +25,6 @@ main:
         
   #- title: "Educational" # mudar nome para educação ou algo do gênero
   #  url: /educational-material/
-    
-  - title: "CV"
-    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/

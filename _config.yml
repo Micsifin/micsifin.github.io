@@ -21,7 +21,7 @@ repository               : "micsifin/micsifin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "FotoLinkedIn.jpeg"
   name             : "Michel C. Finger"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "Undergraduate student of Applied and Computational Mathematics at IME-USP and Economics at FGV-EESP."
