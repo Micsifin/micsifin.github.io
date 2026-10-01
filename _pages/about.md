@@ -10,6 +10,4 @@ redirect_from:
 
 Hello, welcome to my website! I am currently persuing a double degree, a BA in Economics at [FGV-EESP](https://economics-sp.fgv.br/) and a BSc in Applied and Computational Mathematics at [IME-USP](https://www.ime.usp.br/en/home/).
 
-[You can find my CV in this page.](/cv)
-
-Currently, my main projects are: (WORKING PAPER)
+[You can find my CV in this page](/cv), and [my main projects in this page](/projects).
